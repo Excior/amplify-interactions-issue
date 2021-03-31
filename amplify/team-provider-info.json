@@ -2,8 +2,6 @@
   "dev": {
     "awscloudformation": {
       "AuthRoleName": "amplify-egoliincidentbot-dev-155437-authRole",
-      "UnauthRoleArn": "arn:aws:iam::253655748453:role/amplify-egoliincidentbot-dev-155437-unauthRole",
-      "AuthRoleArn": "arn:aws:iam::253655748453:role/amplify-egoliincidentbot-dev-155437-authRole",
       "Region": "us-east-1",
       "DeploymentBucketName": "amplify-egoliincidentbot-dev-155437-deployment",
       "UnauthRoleName": "amplify-egoliincidentbot-dev-155437-unauthRole",
