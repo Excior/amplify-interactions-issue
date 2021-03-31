@@ -1,0 +1,33 @@
+{
+    "resourceName": "Incidentlex46d75f7c",
+    "botName": "EgoliIncidentBot",
+    "intents": [
+        {
+            "lambda": {
+                "region": "us-east-1",
+                "accountId": "253655748453",
+                "lambdaArn": "arn:aws:lambda:us-east-1:253655748453:function:SpaceCreateAppsyncCOVIDQuestionnaire-staging",
+                "lambdaName": "SpaceCreateAppsyncCOVIDQuestionnaire-staging"
+            },
+            "slots": [
+                {
+                    "name": "Date",
+                    "type": "AMAZON.DATE",
+                    "prompt": "When did the incident occur?",
+                    "required": true,
+                    "customType": false
+                }
+            ],
+            "utterances": [
+                "create incident",
+                "help"
+            ],
+            "intentName": "EgoliEmployeeCreateIncident",
+            "newSlotTypes": []
+        }
+    ],
+    "outputVoice": "Joanna",
+    "sessionTimeout": 5,
+    "coppa": false,
+    "shortId": "7b76e567"
+}

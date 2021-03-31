@@ -1,0 +1,26 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-egoliincidentbot-dev-155437-authRole",
+      "UnauthRoleArn": "arn:aws:iam::253655748453:role/amplify-egoliincidentbot-dev-155437-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::253655748453:role/amplify-egoliincidentbot-dev-155437-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-egoliincidentbot-dev-155437-deployment",
+      "UnauthRoleName": "amplify-egoliincidentbot-dev-155437-unauthRole",
+      "StackName": "amplify-egoliincidentbot-dev-155437",
+      "StackId": "arn:aws:cloudformation:us-east-1:253655748453:stack/amplify-egoliincidentbot-dev-155437/a554d740-9228-11eb-9c68-0e918a040795",
+      "AmplifyAppId": "d1e9goda2ggwpf"
+    },
+    "categories": {
+      "auth": {
+        "cognito0c62dced": {}
+      },
+      "interactions": {
+        "Incidentlex46d75f7c": {
+          "deploymentBucketName": "amplify-egoliincidentbot-dev-155437-deployment",
+          "s3Key": "amplify-builds/Incidentlex46d75f7c-677456745943434d5361-build.zip"
+        }
+      }
+    }
+  }
+}
